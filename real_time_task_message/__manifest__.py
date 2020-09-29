@@ -22,7 +22,7 @@
             ], 
     "images": [],
     'license': 'OPL-1',
-    "price": ,
+    "price": '',
     "currency": "EUR",
     'support': '',
     'installable': True,
